@@ -1,0 +1,41 @@
+p {
+color:blue ;
+}
+p.rp {
+color:red ;
+}
+p.gp {
+color:green ;
+//background-color: grey;
+//border: 2px solid;
+}
+
+h2 {
+  color: blue;
+  font-style: italic;
+}
+
+dt { font-style: italic;}
+dd {color: blue; font-style: italic;}
+
+form {
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+
+form.tform
+{
+  margin: 0 auto;
+  width: 40px;
+  padding: 1em;
+  border: 3px solid #BCC;
+  border-radius: 1em;
+}
+
+div.divtext {
+  color: blue;
+  border: 5px solid #DCC;
+}
